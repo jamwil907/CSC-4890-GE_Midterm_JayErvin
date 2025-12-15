@@ -1,0 +1,14 @@
+C:\Users\LukalagaN\source\repos\ParseTrees\bin\Debug\net8.0\ParseTrees.exe
+C:\Users\LukalagaN\source\repos\ParseTrees\bin\Debug\net8.0\ParseTrees.deps.json
+C:\Users\LukalagaN\source\repos\ParseTrees\bin\Debug\net8.0\ParseTrees.runtimeconfig.json
+C:\Users\LukalagaN\source\repos\ParseTrees\bin\Debug\net8.0\ParseTrees.dll
+C:\Users\LukalagaN\source\repos\ParseTrees\bin\Debug\net8.0\ParseTrees.pdb
+C:\Users\LukalagaN\source\repos\ParseTrees\obj\Debug\net8.0\ParseTrees.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LukalagaN\source\repos\ParseTrees\obj\Debug\net8.0\ParseTrees.AssemblyInfoInputs.cache
+C:\Users\LukalagaN\source\repos\ParseTrees\obj\Debug\net8.0\ParseTrees.AssemblyInfo.cs
+C:\Users\LukalagaN\source\repos\ParseTrees\obj\Debug\net8.0\ParseTrees.csproj.CoreCompileInputs.cache
+C:\Users\LukalagaN\source\repos\ParseTrees\obj\Debug\net8.0\ParseTrees.dll
+C:\Users\LukalagaN\source\repos\ParseTrees\obj\Debug\net8.0\refint\ParseTrees.dll
+C:\Users\LukalagaN\source\repos\ParseTrees\obj\Debug\net8.0\ParseTrees.pdb
+C:\Users\LukalagaN\source\repos\ParseTrees\obj\Debug\net8.0\ParseTrees.genruntimeconfig.cache
+C:\Users\LukalagaN\source\repos\ParseTrees\obj\Debug\net8.0\ref\ParseTrees.dll
